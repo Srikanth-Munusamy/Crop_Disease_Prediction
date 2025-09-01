@@ -1,33 +1,7 @@
 # Auto Chloro - A Plant Disease Classifier & Remedies Provider.
 ## About Auto Chloro
 Auto Chloro is a plant disease classifier & remedies provider that uses deep learning. It can predict diseases and provide remedies. The GUI is based on Bangla Language keeping in mind that, our primary target is to create an application to predict plant diseases and provide remedies for the Bangladeshi people.
-
-
-## How to Use 
-
-![select menu](images/gui1.PNG)
-
-
-To predict the disease click on the "Submit" button.
-
-
-![file open](images/gui2.PNG)
-
-
-Select the image from your PC.
-
-
-![confirmation](images/gui3.PNG)
-
-
-Click on the selected image to predict the disease and get the remedies.
-
-
-![remedies](images/gui4.PNG)
-
-
-Finally, you get the disease name and remedies. 
-
+    
 ## Details & Breakdown
 ### Dataset:
 The dataset we will be using contains 17476 images. The train dataset has 16222 images belonging to 15 classes and the test dataset has 1254 images belonging to 15 classes.
